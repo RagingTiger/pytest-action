@@ -1,0 +1,6 @@
+# action.yml
+name: 'pytest'
+description: 'Python testing with pytest and other goodies ...'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
